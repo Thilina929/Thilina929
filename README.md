@@ -1,7 +1,7 @@
 # Thilina Mahesh
 
 ## Hi 👋, 
-I'm Thilina Mahesh, I'm a software engineer 👨‍💻 who is passionate about web & mobile technologies and open source.
+I'm Thilina Mahesh, I'm a software Developer  👨‍💻 who is passionate about web & mobile technologies and open source.
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Apps
