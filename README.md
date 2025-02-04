@@ -14,7 +14,6 @@ I'm Thilina Mahesh, I'm a software engineer 👨‍💻 who is passionate about 
 -  ⚡ Languages: Java, Kotlin, Python3
 
 
-> El Psy Kongroo
 
 
 
@@ -34,6 +33,5 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [Kunal Raghav](https://github.com/KunalRaghav)
 
 Last Edited on: 12/12/2020
