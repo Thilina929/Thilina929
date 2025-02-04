@@ -1,5 +1,4 @@
 # Thilina Mahesh
- [![Linkedin Badge](https://www.linkedin.com/in/thilina-mahesh-a4b730265/)]
 
 ## Hi 👋, 
 I'm Thilina Mahesh, I'm a software engineer 👨‍💻 who is passionate about web & mobile technologies and open source.
